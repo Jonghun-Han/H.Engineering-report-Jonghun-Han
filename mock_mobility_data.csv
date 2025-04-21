@@ -1,0 +1,7 @@
+id,name,disability_type,location,needs,synced
+1,Ram,amputation,"""Baneshwor, Kathmandu""",prosthetic leg,0
+2,Laxmi,arthritis,"""Thimi, Bhaktapur""","""walker, pain relief medication""",1
+3,Krishna,spinal cord injury,"""Kirtipur, Kathmandu""","""wheelchair, urinary care supplies, accessible shelter""",1
+4,Dhan,cerebral palsy,"""Baneshwor, Kathmandu""","""wheelchair, emergency therapy, accessible shelter""",0
+5,Rima,sprained ankle,"""Gongabu, Kathmandu""","""crutches, pain relief medication""",0
+6,Prakash,blindness,"""Baneshwor, Kathmandu""","""cane, accessible shelter""",0
